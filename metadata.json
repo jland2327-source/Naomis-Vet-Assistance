@@ -1,0 +1,7 @@
+{
+  "name": "Paws & Whiskers Wellness",
+  "description": "A premium veterinary clinic website featuring dedicated sections for dogs, cats, and exotic animals, integrated with an AI-powered pet health assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
